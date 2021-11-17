@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Chong Ee</string>
+    <string name="img_in_scrollview">Image in Scrollview</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello World, My name is Khoo Chong Ee. \n\n
+        I am currently pursuing Bachelor of Computer Science in Data Science at TARUC KL campus. \n\n
+        I am 21 years old, and I am the second among all the children in my family. \n\n
+        I have elder brother and 2 younger sister. \n\n
+        I think I am the one who aren\'t talk-active as my other family members. \n\n
+        I love fish.
+        \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+        \nFun fact is that I have several aquariums and also a river.
+        \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+        \nAnd sometimes I even go fishing.
+        \nAnd even less sometimes, I actually catch something.
+        \n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+        \n\nI\'ll be happy to teach you how to make your own aquarium.
+        \nYou should ask someone else about fishing, though
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string-array name="programming_languages">
+        <item>Javascript</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>
